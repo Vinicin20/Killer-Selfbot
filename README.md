@@ -5,7 +5,6 @@
  - Um selfbot focado em destruir servidores.
  - Extraia o arquivo
  - Extraia o node modules.
- - Execute o install.bat
  - Coloque o token da conta que você quer usar no config.json
  - Configure o server e o ID da conta e o nome dos canais e o prefixo no config.json.
  - Clique no start.bat.
